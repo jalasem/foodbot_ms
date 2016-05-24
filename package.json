@@ -1,0 +1,32 @@
+{
+  "name": "food-bot",
+  "version": "1.0.0",
+  "description": "An food attendant bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jalasem/foodbot_ms.git"
+  },
+  "keywords": [
+    "food",
+    "bot",
+    "foodbot",
+    "js",
+    "automated",
+    "food",
+    "ordering"
+  ],
+  "author": "Ajala AbdulSamii O. (Jalasem)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalasem/foodbot_ms/issues"
+  },
+  "homepage": "https://github.com/jalasem/foodbot_ms#readme",
+  "dependencies": {
+    "botbuilder": "^0.11.1",
+    "restify": "^4.1.0"
+  }
+}
